@@ -13,7 +13,7 @@
         <IsA>app:gui</IsA>
         <Summary>Qt4 based BitTorrent client</Summary>
         <Description>qbittorrent is a BitTorrent client using the libtorrent library.</Description>
-        <Archive sha1sum="7973e5f4c7923cc5db04bd3f0ef19d80b1f7ed65" type="targz">http://sourceforge.net/projects/qbittorrent/files/qbittorrent/qbittorrent-3.3.1/qbittorrent-3.3.1.tar.gz</Archive>
+        <Archive sha1sum="7973e5f4c7923cc5db04bd3f0ef19d80b1f7ed65" type="targz">http://sourceforge.net/projects/qbittorrent/files/qbittorrent/qbittorrent-3.3.3/qbittorrent-3.3.3.tar.gz</Archive>
         <BuildDependencies>
             <Dependency>qt5-base-devel</Dependency>
             <Dependency>qt5-linguist</Dependency>
